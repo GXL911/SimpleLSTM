@@ -1,0 +1,27 @@
+what is difference between pearson and spearman? How high is called high correlation?
+
+Pearson: Linear relationships between measured variables
+Spearman: Measure monotonic relationships and deal with nonlinear relationships
+0.7 to 1.0 (or -0.7 to -1.0) for strong correlation
+0.5 to 0.7 (or -0.5 to -0.7) for moderate correlation
+
+ What is difference comparing to BFill and Ffill used in Python?
+
+BFill (Backward Fill): Fills missing values with the next valid observation
+FFill (Forward Fill): Fills missing values with the previous valid observation
+
+what is difference between min-max scaler and standard scaler?
+
+Min-Max Scaler: Scales features to a fixed range, typically 0 to 1
+Standard Scaler: Standardizes features by removing mean and scaling to unit variance
+
+What is difference between univariate and multivariate time series?
+
+what is dropout rate? 
+In training, the probability of discarding (ignoring) neurons is used to prevent overfitting.
+
+
+why researchers dislike MAPE?
+MAPE is like a not-so-fair referee. It is more tolerant of underestimation and harsher of overestimation. And, when the actual value is small or zero, it gives misleading results
+
+
